@@ -1,0 +1,776 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"F",
+				"FifteenGraphic"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			],
+			[
+				"fi",
+				"fifteen"
+			],
+			[
+				"t",
+				"textContent"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"_",
+				"_field"
+			],
+			[
+				"fiel",
+				"fieldBox"
+			],
+			[
+				"fie",
+				"fieldBox"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"m",
+				"min-width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"c",
+				"colNum"
+			],
+			[
+				"col",
+				"colZero"
+			],
+			[
+				"ro",
+				"rowZero"
+			],
+			[
+				"r",
+				"rowNum"
+			],
+			[
+				"te",
+				"tempZero"
+			],
+			[
+				"row",
+				"rowNum"
+			],
+			[
+				"g",
+				"getRandomInt"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"n",
+				"nodeId"
+			],
+			[
+				"up",
+				"upLink"
+			],
+			[
+				"pa",
+				"parentNode"
+			],
+			[
+				"dele",
+				"deleteId"
+			],
+			[
+				"u",
+				"upperRestore"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"re",
+				"recurs"
+			],
+			[
+				"no",
+				"node"
+			],
+			[
+				"JSobjec",
+				"JSobjectd"
+			],
+			[
+				"J",
+				"JSobject"
+			],
+			[
+				"C",
+				"CreateNodeJSON"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"v",
+				"varnode"
+			],
+			[
+				"l",
+				"level2"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"s",
+				"sayHi"
+			],
+			[
+				"U",
+				"U1"
+			],
+			[
+				"sa",
+				"sayBye"
+			],
+			[
+				"st",
+				"stack"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"cl",
+				"ClockProto"
+			],
+			[
+				"Clo",
+				"ClockProto"
+			],
+			[
+				"R",
+				"Rabbit"
+			],
+			[
+				"powe",
+				"powerCM"
+			],
+			[
+				"po",
+				"powerInit"
+			],
+			[
+				"Кофе",
+				"кофеварку"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"func",
+				"funccall"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"time",
+				"timerId"
+			],
+			[
+				"k",
+				"komandor"
+			],
+			[
+				"j",
+				"JSONteam"
+			],
+			[
+				"js",
+				"JSON_leader"
+			],
+			[
+				"JS",
+				"JSON"
+			],
+			[
+				"D",
+				"DateOutput"
+			],
+			[
+				"f_",
+				"f_loginDone"
+			],
+			[
+				"b",
+				"bind"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"str",
+				"toString"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"value",
+				"valueCurrent"
+			],
+			[
+				"val",
+				"valueCurrent"
+			],
+			[
+				"sho",
+				"shooter"
+			],
+			[
+				"item",
+				"itemloc"
+			],
+			[
+				"ch",
+				"checkItem"
+			],
+			[
+				"M",
+				"MinutesRes"
+			],
+			[
+				"ge",
+				"getHours"
+			],
+			[
+				"Da",
+				"DateRes"
+			],
+			[
+				"N",
+				"Time_Now"
+			],
+			[
+				"getSeconds",
+				"getSecondsToday"
+			],
+			[
+				"getL",
+				"getLastDayOfMonth"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"to",
+				"toLocaleString"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"arr",
+				"arrLength"
+			],
+			[
+				"Stri",
+				"String2"
+			],
+			[
+				"S",
+				"String2"
+			],
+			[
+				"Str",
+				"String2"
+			],
+			[
+				"Arr",
+				"Array_ClassName"
+			],
+			[
+				"spli",
+				"splice"
+			],
+			[
+				"Su",
+				"Sum_Max"
+			],
+			[
+				"Ar",
+				"Array_Prime"
+			],
+			[
+				"Sum",
+				"Sum_Max"
+			],
+			[
+				"P",
+				"PrimeNumber_Current"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Nu",
+				"Number_Current"
+			],
+			[
+				"is",
+				"isNumberEnter"
+			],
+			[
+				"поверта",
+				"повертає"
+			],
+			[
+				"ran",
+				"rand"
+			],
+			[
+				"пов",
+				"повертаємо"
+			],
+			[
+				"Na",
+				"NameMaxSalaries"
+			],
+			[
+				"Sa",
+				"Salaries"
+			],
+			[
+				"Rnd",
+				"Rndres"
+			],
+			[
+				"Rn",
+				"Rndres"
+			],
+			[
+				"fib",
+				"fibBinet"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fifteen.html",
+			"settings":
+			{
+				"buffer_size": 2042,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 156.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Google Disc/git_dir/Other/fifteen"
+	],
+	"file_history":
+	[
+		"/E/Google Disc/git_dir/Other/fifteen-project.sublime-project",
+		"/E/Google Disc/git_dir/Other/fifteen/fifteen.html",
+		"/E/Google Disc/git_dir/Other/fifteen/js/fifteen.js",
+		"/C/Завантаження/sourceit-Kisil(3)/sourceit-Kisil/home16/style.css",
+		"/E/Google Disc/git_dir/Other/fifteen/css/fifteen.css",
+		"/E/Google Disc/git_dir/Other/fifteen/js/interface_f.js",
+		"/C/Завантаження/15/home15.html",
+		"/E/Google Disc/git_dir/Other/NodeList3/js/NodeList3.js",
+		"/E/Google Disc/git_dir/Other/NodeList3/NodeList3.html",
+		"/E/Google Disc/git_dir/Other/fifteen/js/interface_f",
+		"/E/Google Disc/git_dir/Other/Tank/kisa/interfaceTank.js",
+		"/E/Google Disc/git_dir/Other/Tank/kisa/home11.html",
+		"/C/Завантаження/sourceit-Kisil(2)/sourceit-Kisil/home15/style.css",
+		"/C/Завантаження/sourceit-Kisil(2)/sourceit-Kisil/home15/home15.html",
+		"/E/Google Disc/git_dir/Other/Tank/kisa/style.css",
+		"/E/Google Disc/Learning JS/Other/fifteen/js/fifteen.js",
+		"/E/Google Disc/Learning JS/Other/fifteen/fifteen.html",
+		"/C/Завантаження/sourceit-e2b43cecbad53bfd489a6469c79786ccd62ef2ce/sourceit-e2b43cecbad53bfd489a6469c79786ccd62ef2ce/Homework/newProject/app.js",
+		"/E/Google Disc/Learning JS/Other/NodeList3/NodeList3.html",
+		"/E/Google Disc/Learning JS/Other/fifteen.html",
+		"/C/Завантаження/sourceit-d95eb68352e0051b4cc45371dee4cbfa4eb1e67d/sourceit-d95eb68352e0051b4cc45371dee4cbfa4eb1e67d/worldoftanks/src/index.js",
+		"/C/Завантаження/sourceit-d95eb68352e0051b4cc45371dee4cbfa4eb1e67d/sourceit-d95eb68352e0051b4cc45371dee4cbfa4eb1e67d/worldoftanks/app.js",
+		"/E/Google Disc/Learning JS/Other/NodeList3/js/NodeList3.js",
+		"/E/Google Disc/Learning JS/Other/NodeList3/test.html",
+		"/C/Завантаження/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/Levada_Denys/15puzzle/js/app.js",
+		"/C/Завантаження/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/Levada_Denys/14practise/js/practise.js",
+		"/C/Завантаження/sourceit-051ff3234e28071adb104cf61ffad339b00ab9d7/sourceit-051ff3234e28071adb104cf61ffad339b00ab9d7/home15/style.css",
+		"/C/Завантаження/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/Levada_Denys/13practise/js/practise.js",
+		"/C/Завантаження/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/js_structure/utilities/math.js",
+		"/C/Завантаження/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/sourceit-7f326b0ba631e1d57c6e688563e4d18bbace7681/js_structure/app.js",
+		"/C/Завантаження/sourceit-1924fd979cccaecc8188cdac67a06e1623eed16e/sourceit-1924fd979cccaecc8188cdac67a06e1623eed16e/TankT35/Index.html",
+		"/C/Завантаження/sourceit-051ff3234e28071adb104cf61ffad339b00ab9d7/sourceit-051ff3234e28071adb104cf61ffad339b00ab9d7/home15/home15.html",
+		"/C/Завантаження/sourceit-21ed2acb903a96dc0435eb828d5e581036a2a4c2/sourceit-21ed2acb903a96dc0435eb828d5e581036a2a4c2/Homework11/checkingNumber.js",
+		"/C/Завантаження/sourceit-1924fd979cccaecc8188cdac67a06e1623eed16e/sourceit-1924fd979cccaecc8188cdac67a06e1623eed16e/TankT35/index.js",
+		"/C/Завантаження/sourceit-0a6333c9ecf49a936e4c52ff47715445b775e778/sourceit-0a6333c9ecf49a936e4c52ff47715445b775e778/9_update_31_10_16/Task_9_OO JS.js",
+		"/C/Завантаження/sourceit-da9103c888a3d2ca84a28e417e0c192f65ad600a/sourceit-da9103c888a3d2ca84a28e417e0c192f65ad600a/home14/model.js",
+		"/C/Завантаження/sourceit-8a1c3e134b1120c762bea1a7ebb36bdd244341a8/sourceit-8a1c3e134b1120c762bea1a7ebb36bdd244341a8/dz8.1/index/index.js",
+		"/C/Завантаження/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/Levada_Denys/Encode-Decode/index.html",
+		"/C/Завантаження/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/Levada_Denys/Encode-Decode/js/encode-decode.js",
+		"/C/Завантаження/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/Levada_Denys/09practise/js/09practise.js",
+		"/C/Завантаження/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/sourceit-0e9c0f68756500dcf3c4e6e596b82122263c8d27/Levada_Denys/09practise/yey.sublime-project",
+		"/C/Documents and Settings/1/Application Data/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Google Disc/Learning JS/current_opportunitiesES2015_Classes.html",
+		"/C/Завантаження/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/Homework/Hw_10_24/css/tank.css",
+		"/C/Завантаження/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/Homework/Hw_10_24/Tank.html",
+		"/C/Завантаження/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/Homework/Hw_10_24/js/Tank.js",
+		"/C/Завантаження/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/Homework/Hw_10_24/Tree.html",
+		"/C/Завантаження/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/sourceit-aa275f2ce14d93f06221a2f906adffef71e9ffeb/Homework/Hw_10_24/Tree.js",
+		"/E/Google Disc/Learning JS/Other/NodeList/NodeList3.html",
+		"/E/Google Disc/Learning JS/Other/NodeList/js/NodeList3.js",
+		"/E/Google Disc/Learning JS/Other/NodeList/NodeList2.html",
+		"/E/Google Disc/Learning JS/Other/NodeList/js/NodeList.js",
+		"/E/Google Disc/Learning JS/Other/Tank/kisa/home11.html",
+		"/E/Google Disc/Learning JS/Other/Tank/kisa/model.js",
+		"/E/Google Disc/Learning JS/Other/Tank/kisa/interfaceTank.js",
+		"/E/Google Disc/Learning JS/JSs/Scope_functionInsideExerciseTest.js",
+		"/E/Google Disc/Learning JS/Other/app.js",
+		"/E/Google Disc/Learning JS/current_opportunitiesES2015_Promise.html",
+		"/C/Завантаження/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/appHomeWork .js",
+		"/C/Завантаження/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/sourceit_tank/index_tank.html",
+		"/C/Завантаження/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/sourceit_tank/js/app.js",
+		"/C/Завантаження/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/sourceit-e4b823e227fe914d8f047ec535708f2e1fc0ff2b/sourceit_tank/css/main.css",
+		"/C/Завантаження/sourceit-5320e97575dd20e889df7b6e7f838aac780f2e1c/sourceit-5320e97575dd20e889df7b6e7f838aac780f2e1c/Levada_Denys/worldOfTanks/js/worldOfTanks.js",
+		"/C/Завантаження/sourceit-896caf6f7eb3720c9efbe9460a06e4c9dd76433d/sourceit-896caf6f7eb3720c9efbe9460a06e4c9dd76433d/t35int/T35.js",
+		"/C/Завантаження/sourceit-dc24fd7017c0648048f5dccbf6ae232fa3360c79/sourceit-dc24fd7017c0648048f5dccbf6ae232fa3360c79/Homework/Hw_10_19/js/Tank.js",
+		"/C/Завантаження/sourceit-3875a5ef221c55c0960e646f6becd91df2cabe11/sourceit-3875a5ef221c55c0960e646f6becd91df2cabe11/Homework9/tank.js",
+		"/C/Завантаження/sourceit-2b20905a9be60a39fb6d217339458eca97f48314/sourceit-2b20905a9be60a39fb6d217339458eca97f48314/home13/interfaceTank.js",
+		"/C/Завантаження/sourceit-2b20905a9be60a39fb6d217339458eca97f48314/sourceit-2b20905a9be60a39fb6d217339458eca97f48314/home13/home11.html",
+		"/C/Завантаження/sourceit-2b20905a9be60a39fb6d217339458eca97f48314/sourceit-2b20905a9be60a39fb6d217339458eca97f48314/home13/model.js",
+		"/C/Завантаження/sourceit-7fc02b645207fbc56402e9bce61c51d55b255716/sourceit-7fc02b645207fbc56402e9bce61c51d55b255716/home-work.js",
+		"/E/Google Disc/Learning JS/Others/Завдання.html",
+		"/E/Google Disc/Learning JS/Kisa/NodeList/NodeList.html",
+		"/E/Google Disc/Learning JS/Kisa/NodeList/NodeList2.html",
+		"/E/Google Disc/Learning JS/Kisa/home11.html",
+		"/E/Google Disc/Learning JS/Kisa/interfaceTank.js",
+		"/E/Google Disc/Learning JS/Kisa/model.js",
+		"/E/Google Disc/Learning JS/current_opportunitiesES2015_Set, Map, WeakSet и WeakMap.html",
+		"/E/Google Disc/Learning JS/current_opportunities_ES_2015_strings.html",
+		"/E/Google Disc/jquery.html",
+		"/E/Google Disc/Learning JS/Scope_MemoryManagement.html",
+		"/E/Google Disc/Learning JS/Scope_ModulesThroughCircuit.html",
+		"/E/Google Disc/Learning JS/Others/Завдання",
+		"/E/Google Disc/Learning JS/вебинар.html",
+		"/E/Google Disc/Learning JS/Modern possibilities ES-2015_ES-2015 Now.html",
+		"/E/Google Disc/Програмування/JSs/extended-clock.js",
+		"/E/Google Disc/Програмування/OOP prototypeStyle_InheritanceOfClassesIn JS.html",
+		"/E/Google Disc/Програмування/OOP prototypeStyle_Its own classes on prototypes.html",
+		"/E/Google Disc/Програмування/OOP prototypeStyle_property F.prototype and new object creating.html",
+		"/E/Google Disc/Програмування/OOP prototypeStyle_prototypeObject.html",
+		"/E/Google Disc/Програмування/OOP functionalStyle_functionalInheritanceExercise.html",
+		"/E/Google Disc/Програмування/OOP functionalStyle_functionalInheritance.html",
+		"/C/Documents and Settings/1/Application Data/Sublime Text 3/Packages/Sublime-JSHint/.jshintrc",
+		"/E/Google Disc/Програмування/OOP functionalStyle_Getters and Setters.html",
+		"/E/Google Disc/Програмування/OOP functionalStyle_Internal_and_External_Interface.html",
+		"/E/Google Disc/Програмування/SomeOtherFeatures_Trapping errors.html",
+		"/E/Google Disc/Програмування/JSs/SomeOtherFeatures_setTimeout и setIntervalTest.js",
+		"/E/Google Disc/Програмування/SomeOtherFeatures_setTimeout и setInterval.html",
+		"/E/Google Disc/Програмування/SomeOtherFiatures_Types of data.html",
+		"/E/Google Disc/Програмування/ObjectMethods_BindingContext.html",
+		"/E/Google Disc/Програмування/JSs/ObjectMethods_StaticAndFabricMethodsTest.js",
+		"/E/Google Disc/Програмування/ObjectMethods_StaticAndFabricMethods.html",
+		"/E/Google Disc/Програмування/JSs/ObjectMethods_createObjectThroughNEWTest.js",
+		"/E/Google Disc/Програмування/ObjectMethods_createObjectThroughNEW.html",
+		"/E/Google Disc/Програмування/JSs/ObjectMethods_ObjectTransformationTest.js",
+		"/E/Google Disc/Програмування/ObjectMethods_ObjectTransformation.html",
+		"/E/Google Disc/Програмування/JSs/ObjectMethods_MethodsObjectTest.js",
+		"/E/Google Disc/Програмування/ObjectMethods_MethodsObject.html",
+		"/E/Google Disc/Програмування/JSs/Scope_functionInsideExerciseTest.js",
+		"/E/Google Disc/Програмування/Scope_WithOldConstruction.html",
+		"/E/Google Disc/Програмування/JSs/hello.js",
+		"/E/Google Disc/Програмування/Scope_functionInsideExercise.html",
+		"/E/Google Disc/Програмування/JSs/DataStruct_Date_TimeExerciseTest.js",
+		"/E/Google Disc/Програмування/Scope_functionInside.html",
+		"/E/Google Disc/Програмування/JSs/libs-js.cx.js",
+		"/E/Google Disc/Програмування/DataStruct_Date_Time.html",
+		"/E/Google Disc/Програмування/DataStruct_Arrays_MethodsExercise.html",
+		"/E/Google Disc/Програмування/JSs/test-js.cx.js",
+		"/E/Google Disc/Програмування/JSs/Test2.js",
+		"/C/owl.carousel.min.js",
+		"/E/Google Disc/Програмування/JSs/RndIntegerSpanTest.js",
+		"/E/Google Disc/Програмування/JSs/DataStruct_Arrays_MethodsExerciseTest.js",
+		"/E/Google Disc/Програмування/JSs/DataStruct_Arrays_SortOut_MethodsTest.js",
+		"/E/Google Disc/Програмування/DataStruct_Arrays_SortOut_Methods.html",
+		"/E/Google Disc/Програмування/DataStruct_Arrays_Methods.html",
+		"/E/Google Disc/Програмування/JSs/DataStruct_NumericallyIndexedArraysTest.js",
+		"/E/Google Disc/Програмування/Numbers.html",
+		"/E/Google Disc/Програмування/JSs/test.js",
+		"/E/Google Disc/Програмування/DataStruct_NumericallyIndexedArraysTesting.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mainId",
+			"15",
+			";\n",
+			"document.write",
+			"alert",
+			"sb-perspective",
+			".sb-perspective",
+			"val",
+			"alert",
+			";\n",
+			"formatDate2",
+			"/\n",
+			"};\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fifteen.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fifteen.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,56 @@
+body{
+  position: absolute;
+  width: 99%;
+  height: 99%;
+  margin: 0;
+}
+
+.field { 
+  background: grey;
+  width: 88%;
+  height: 88%;
+  max-width: 300px;
+  max-height: 300px;
+  min-width:  180px; 
+  min-height:  180px;
+  margin: 10% auto; 
+
+
+}
+
+.row {
+  height: 25%;      
+}
+
+.cell { 
+  border: solid 1px black; 
+  width: 23%;
+  height: 96%;
+  margin-left: 2px;
+  margin-top: 1px;
+  float: left;
+  /*text-align:center;*/
+  background: red;
+}
+
+.hole { 
+  border: solid 1px grey; 
+  width: 23%;
+  height: 96%;
+  margin-left: 2px;
+  margin-top: 1px;
+  float: left;
+  /*text-align:center;*/
+  background: grey;
+}
+
+.text {
+  text-align:  center;
+  font-size: 230%; 
+  font-family: Arial, sans-serif; 
+  color: #333366;
+  position: relative;
+  top: 15%;
+}
+
+    
