@@ -12,10 +12,38 @@
 
 
 <body>
+  <div class="titleBox"> 
+    <div class="title1">Пятнашки</div>
+  </div>
+  <div class="headerInterval"></div>
 
-  
+  <div id="inputSize">
+    <div class="inputDiv">
+      <label for="txtSizeHorizontal" >Size horizontal</label>
+      <input class="txtSizeLabel" autofocus type="number" value="4" min="2" max="20" step="1" 
+          id="txtSizeHorizontal">
+    </div>
 
-    <div id="field" class="field"> 
+    <div class="inputDiv">
+      <label for="txtSizeVertical">Size vertical</label>
+      <input class="txtSizeLabel" type="number" value="4" min="2" max="20" step="1" 
+          id="txtSizeVertical">
+    </div>
+    <div class="buttonDiv">
+      <button id="choiceSizeButton">OK!</button>
+    </div>
+  </div>
+
+  <div id='game'>
+    <div id="fieldGameBox"> </div>
+    <div id='resetButtonDiv' class="buttonDiv">
+      <button id="resetButton">Reset!</button>
+    </div>
+  </div>
+
+ 
+
+    <!-- <div id="field" class="field"> 
       <div class="row">
         <div id="field 0" class="cell"> 
           <div class="text 0">0</div>
@@ -74,7 +102,12 @@
         <div class="text 3">15</div>
         </div>
       </div>
-    </div>
+    </div> -->
+
+
+
+
+
 
   <script src="./js/fifteen.js" type="text/javascript"></script>
   <script src="./js/interface_f.js" type="text/javascript"></script>

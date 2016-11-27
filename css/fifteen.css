@@ -1,10 +1,108 @@
 body{
-  position: absolute;
-  width: 99%;
-  height: 99%;
   margin: 0;
+  background-color: #e7feff;
 }
 
+.titleBox {
+
+  background-image: url(../jpg/header.jpg);
+  padding: 0 0 0 30px;
+
+}
+
+.title1 {
+  margin: 0;
+  text-align: left;
+  font-family: Futura, Trebuchet MS;
+  font-weight: bold;
+  font-size: 45px;
+  font-style: oblique;
+  color: #0419FF;
+
+
+
+
+
+}
+
+.headerInterval {
+  height: 30px; 
+}
+
+
+#inputSize {
+  margin: 0 auto;
+  width: 175px;
+  padding: 8px;
+  border: 1px solid blue;
+  background-color: #97D9EF;
+}
+
+.buttonDiv {
+  text-align: center;
+  margin: 3px auto;
+}
+
+.txtSizeLabel {
+  width: 96%;  
+}
+
+
+#game {
+  margin: 0  0 0 40px;
+  width: 700px;
+}
+
+#fieldGameBox {
+  width: 600px;
+  height: 600px;
+  float: left;
+}
+
+#fieldGame {
+  background: grey;
+  margin: 0; 
+  background-image: url(../jpg/wood-121.jpg);
+  border-radius: 3px;
+  position: relative;
+
+
+}
+
+
+
+
+
+
+
+
+
+.cell {
+  position: absolute;
+  background-color: #D7E2EE;
+  margin: 0;
+  box-shadow: 0.5px 0.5px 0px rgba(140, 12, 81, 1);
+  display: table;
+}
+
+.p {
+  /*margin: 0;*/
+  text-align: center;
+  font-family: Futura, Trebuchet MS;
+  font-weight: bold;
+
+  display: table-cell;
+  vertical-align: middle;
+
+
+
+}
+
+
+
+
+
+/*
 .field { 
   background: grey;
   width: 88%;
@@ -29,7 +127,7 @@ body{
   margin-left: 2px;
   margin-top: 1px;
   float: left;
-  /*text-align:center;*/
+  text-align:center;
   background: red;
 }
 
@@ -40,7 +138,7 @@ body{
   margin-left: 2px;
   margin-top: 1px;
   float: left;
-  /*text-align:center;*/
+  text-align:center;
   background: grey;
 }
 
@@ -54,3 +152,4 @@ body{
 }
 
     
+*/
